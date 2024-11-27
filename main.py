@@ -1,4 +1,5 @@
 # Это игра сгенерирована DeepSeek
+# TODO: Нужно проверить логику работы игры!
 
 import pygame
 import random
