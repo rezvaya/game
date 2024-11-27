@@ -1,3 +1,5 @@
+# Это игра сгенерирована DeepSeek
+
 import pygame
 import random
 
